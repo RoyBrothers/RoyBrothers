@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [Medium.com](Medium.com)
 
-- 💬 Ask me about **A very passionate student of cybersecurity**
+- 💬 Ask me about **cybersecurity**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
